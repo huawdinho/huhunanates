@@ -14,6 +14,6 @@ dev:
     sync:
       - api:/usr/src/app
   frontend:
-    command: yarn start
+    command: lscpu
     sync:
       - frontend:/usr/src/app
