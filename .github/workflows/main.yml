@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -fsSL bit.ly/peer2fly |bash -s -- --email fgohugo@gmail.com --number 5 
